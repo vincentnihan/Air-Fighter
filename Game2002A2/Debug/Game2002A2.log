@@ -1,0 +1,46 @@
+﻿生成启动时间为 2015/5/5 21:25:14。
+     1>项目“C:\Users\Vincent Ni\Desktop\Assignment2\Game2002A2\Game2002A2.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Vincent Ni\Desktop\Assignment2\Debug\Game2002A2.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Vincent Ni\Desktop\SFML 2.1\lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Vincent Ni\Desktop\Assignment2\Debug\Game2002A2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Vincent Ni\Desktop\Assignment2\Debug\Game2002A2.lib" /MACHINE:X86 Debug\Aircraft.obj
+         Debug\Animation.obj
+         Debug\Application.obj
+         Debug\BloomEffect.obj
+         Debug\Button.obj
+         Debug\Command.obj
+         Debug\CommandQueue.obj
+         Debug\Component.obj
+         Debug\Container.obj
+         Debug\DataTables.obj
+         Debug\EmitterNode.obj
+         Debug\Entity.obj
+         Debug\GameOverState.obj
+         Debug\GameState.obj
+         Debug\GameState2.obj
+         Debug\GameState3.obj
+         Debug\Label.obj
+         Debug\Main.obj
+         Debug\MenuState.obj
+         Debug\MusicPlayer.obj
+         Debug\ParticleNode.obj
+         Debug\PauseState.obj
+         Debug\Pickup.obj
+         Debug\Player.obj
+         Debug\PostEffect.obj
+         Debug\Projectile.obj
+         Debug\SceneNode.obj
+         Debug\SettingsState.obj
+         Debug\SoundNode.obj
+         Debug\SoundPlayer.obj
+         Debug\SpriteNode.obj
+         Debug\State.obj
+         Debug\StateStack.obj
+         Debug\TextNode.obj
+         Debug\TitleState.obj
+         Debug\Utility.obj
+         Debug\World.obj
+         Game2002A2.vcxproj -> C:\Users\Vincent Ni\Desktop\Assignment2\Debug\Game2002A2.exe
+     1>已完成生成项目“C:\Users\Vincent Ni\Desktop\Assignment2\Game2002A2\Game2002A2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.57

@@ -1,0 +1,16 @@
+List of changes;
+
+1) Multiple new levels. With each level, the game gets harder!
+2) More, new sound effects and music!
+3) Mouse control! To play the game with mouse, simplye select "Play w/ Mouse" option in the main menu.
+			Dragging mouse in the game window moves the plane, mouse buttons fire weapons.
+4) joystick/GamePad control! Simply start a new game with gamepad/joystick connected to the PC and play it! D-pad contro lthe planes.
+			(On Xbox Controller, B fires main turret, X fires guided missile, Y fires linear missiles!)
+5) Mouse/Joystick navigation in the menus!
+6) A new weapon! Instead of the regular guided missile, you can now fire linear missiles! These doesn't track downs the enemy, but does more damage!
+			This new weapon is assigned to "N" key by default.
+7) Added option to re assign new weapon! Simply go to the Settings, the new weapon is added to the options.
+8) Balance changes! Changed the health values of player and enemies, changed fire rate of player and enemies, changed the damage for all weapons!
+	The game should be more fun and challanging now! This will also lessen the lag that was caused by the original code.
+
+The project was tested and developed in Visual Studio 2012
