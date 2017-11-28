@@ -1,6 +1,7 @@
 # Air-Fighter
 
 2D air fighter game made with C++ and SFML
+
 4-Man project
 
 Game Feature:
